@@ -1,0 +1,6 @@
+{
+  "name": "Port Intelligent Management System - ASDP Indonesia Ferry",
+  "description": "Enterprise Decision Support System (DSS) and real-time operational intelligence dashboard for 37 Indonesian ports, ship arrivals, fleet utilization, and terminal efficiency metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
